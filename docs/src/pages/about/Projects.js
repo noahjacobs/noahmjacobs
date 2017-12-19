@@ -88,7 +88,7 @@ const images = [
     width: '33%',
   },
   {
-    url: '/static/images/grid-list/camera.jpg',
+    url: '/static/images/grid-list/1se.jpg',
     title: 'One Second Everyday',
     width: '33%',
   },

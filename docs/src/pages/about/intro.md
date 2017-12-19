@@ -31,4 +31,4 @@ Pilot, skier, rescue scuba diver, and foodie at heart.
 My research draws on topics and methods from Machine Learning, Computational Linguistics (Natural Language Processing) and Quantum Information Theory (specifically the use of category theoretical frameworks). My main project presently involves developing software for analyzing and understanding high-dimensional data from financial securities and the blockchain. I am generally interested in theories of - and applications for - computer science, neuroscience, linguistics, psychology, and philosophy.
 <br><br>
 
-#### [More about my experience here]()
+#### [More about my experience here](https://noahmjacobs.com/about/experience)

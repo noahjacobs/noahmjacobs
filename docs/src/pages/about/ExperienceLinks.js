@@ -19,7 +19,8 @@ function RaisedButtons(props) {
       <Button raised className={classes.button}>
         Resume
       </Button>
-      <Button raised color="primary" className={classes.button}>
+      <Button raised color="primary" className={classes.button} 
+              href='mailto:noahjacobs@icloud.com'>
         Contact
       </Button>
     </div>

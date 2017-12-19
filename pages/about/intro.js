@@ -7,15 +7,6 @@ function Page() {
   return (
     <MarkdownDocs
       markdown={markdown}
-      demos={{
-      	'pages/about/Books.js': {
-          js: require('docs/src/pages/about/Books').default,
-          raw: preval`
-module.exports = require('fs')
-  .readFileSync(require.resolve('docs/src/pages/about/Books'), 'utf8')
-`,
-        },
-      }}
     />
   );
 }

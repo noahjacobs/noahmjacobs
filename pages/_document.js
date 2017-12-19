@@ -13,10 +13,10 @@ class MyDocument extends Document {
     return (
       <html lang="en" dir="ltr">
         <Head>
-          <title>Material-UI</title>
+          <title>Noah Jacobs</title>
           <meta
             name="description"
-            content="React Components that Implement Google's Material Design."
+            content="Personal website."
           />
           <meta charSet="utf-8" />
           {/* Use minimum-scale=1 to enable GPU rasterization */}
@@ -39,23 +39,14 @@ class MyDocument extends Document {
             href="https://fonts.googleapis.com/css?family=Roboto:300,400,500"
           />
           <style id="insertion-point-jss" />
-          {/* Twitter */}
-          <meta name="twitter:card" content="summary" />
-          <meta name="twitter:site" content="@MaterialUI" />
-          <meta name="twitter:title" content="Material-UI" />
-          <meta
-            name="twitter:description"
-            content="React Components that Implement Google's Material Design."
-          />
-          <meta name="twitter:image" content="https://material-ui-next.com/static/brand.png" />
           {/* Facebook */}
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="Material-UI" />
+          <meta property="og:title" content="Noah Jacobs" />
           <meta
             property="og:description"
-            content="React Components that Implement Google's Material Design."
+            content="Personal website."
           />
-          <meta property="og:image" content="https://material-ui-next.com/static/brand.png" />
+          <meta property="og:image" content="/static/bear.png" />
           <link rel="shortcut icon" href="/static/favicon.ico" />
           <link rel="canonical" href={canonical} />
         </Head>
@@ -112,7 +103,7 @@ MyDocument.getInitialProps = ctx => {
   return {
     ...page,
     stylesContext: context,
-    canonical: `https://material-ui-next.com${ctx.req.url.replace(/\/$/, '')}/`,
+    canonical: `https://noahmjacobs.com/`,
     styles: (
       <style
         id="jss-server-side"

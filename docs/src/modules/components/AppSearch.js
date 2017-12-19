@@ -14,8 +14,8 @@ function initDocsearch() {
     if (window.docsearch && document.querySelector('#docsearch-input')) {
       clearInterval(searchTimer);
       window.docsearch({
-        apiKey: '1d8534f83b9b0cfea8f16498d19fbcab',
-        indexName: 'material-ui',
+        apiKey: '7d0e8164876522cd2454c243d0e6177f',
+        indexName: 'noahmjacobs',
         inputSelector: '#docsearch-input',
         debug: false, // Set debug to true if you want to inspect the dropdown
       });
