@@ -16,7 +16,8 @@ function RaisedButtons(props) {
   const { classes } = props;
   return (
     <div>
-      <Button raised className={classes.button}>
+      <Button raised className={classes.button}
+              href='/static/resume.pdf' target='_blank'>
         Resume
       </Button>
       <Button raised color="primary" className={classes.button} 

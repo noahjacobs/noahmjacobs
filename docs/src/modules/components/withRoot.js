@@ -36,31 +36,30 @@ const pages = [
     ],
   },
   {
-    pathname: '/research',
+    pathname: '/writing',
     children: [
       {
-        pathname: '/research/overrides',
+        pathname: '/writing/meditations',
       },
       {
-        pathname: '/research/themes',
-      },
-      {
-        pathname: '/research/css-in-js',
-        title: 'CSS in JS',
+        pathname: '/writing/travel',
       },
     ],
   },
   {
-    pathname: '/writing',
+    pathname: '/graphics',
     children: [
       {
-        pathname: '/writing/color',
+        pathname: '/graphics/rasterizer',
       },
       {
-        pathname: '/writing/icons',
+        pathname: '/graphics/geometry',
       },
       {
-        pathname: '/writing/typography',
+        pathname: '/graphics/ray-tracing',
+      },
+      {
+        pathname: '/graphics/cloth-simulation',
       },
     ],
   },

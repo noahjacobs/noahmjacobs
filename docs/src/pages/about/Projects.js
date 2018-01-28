@@ -81,16 +81,19 @@ const images = [
     url: '/static/images/grid-list/bear.gif',
     title: 'Bear AI',
     width: '33%',
+    link: 'https://bear.ai',
   },
   {
-    url: '/static/images/grid-list/medical.jpg',
-    title: 'Medical Robotics',
+    url: '/static/images/grid-list/workouts.png',
+    title: 'Perfect Workouts',
     width: '33%',
+    link: '/static/coming-soon.gif',
   },
   {
     url: '/static/images/grid-list/1se.jpg',
     title: 'One Second Everyday',
     width: '33%',
+    link: 'https://youtu.be/y4NaUnmI1k8',
   },
 ];
 
@@ -107,6 +110,8 @@ function ButtonBases(props) {
           style={{
             width: image.width,
           }}
+          href={image.link}
+          target="_blank"
         >
           <div
             className={classes.imageSrc}

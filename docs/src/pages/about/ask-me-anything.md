@@ -4,13 +4,13 @@ In the past year, I have been answering absolutely anything people have been cur
 
 #### What's your favorite t-shirt?
 
-<img src="http://localhost:3000/static/images/dubai.jpg" width="90%" height="90%" />
+<img src="/static/images/dubai.jpg" width="90%" height="90%" />
 
 This one. Somewhere near Dubai.
 
 #### Selfie please!
 
-<img src="http://localhost:3000/static/images/noah2.jpg" width="50%" height="50%" />
+<img src="/static/images/noah2.jpg" width="50%" height="50%" />
 
 Meeting one of my inspirations, Steve Wozniak, in 2016.
 
@@ -30,7 +30,11 @@ My most used apps are Firefox, Sublime Text, Slack, and Spark...
 
 #### Can you share a screenshot of your desktop?
 
-Dock: Finder, etc.
+<img src="/static/dock.png" width="100%" height="100%" />
+
+Taken January 28, 2018
+
+Dock: Finder, Safari, Firefox, Spark, Calendar, Photos, Messages, FaceTime, Slack, Things, Bear, iTunes, Spotify, Terminal, Settings, CLion, Sublime Text | Code Quick Links, Creative Quick Links, Downloads Folder, Trash
 
 #### How do you get stuff done?
 
@@ -43,7 +47,7 @@ Meditation, plenty of sleep, workouts, and good eats. My normal weekday:
  - Wake up around 7 to 8 AM and meditate.
  - Walk to the gym and do yoga and workout (MWF = full body, TuThS = cardio).
  - Shower, bike to a coffee shop or campus.
- - Hack until around 5 PM. "Hack" being coding, emails, studying, etc. I usually start by reading some emails, planning out a good workflow, looking through my todo-list. After a while, my brain has woken up and I'm ready for some coding.
+ - Hack until around 5 PM. "Hack" being coding, emails, studying, etc. I usually start by reading some emails, planning out a good workflow, looking through my todo-list. After a while, my brain has woken up and I'm ready for work.
  - Meet up with friends for dinner somewhere or cook at home.
  - By 8 PM I cut off all electronics (phone, computer, etc.) and spend an hour to journal, read, and meditate.
 
@@ -116,7 +120,7 @@ Absolutely. Check out these awesome <a href="https://vimawesome.com/" target="_b
 
 #### Who are your heroes?
 
-I don’t have any heroes. There are people I respect and admire, but in the end, we’re all just human. I admire my dad for his kindness and compassion. I'm inspired by Elon Musk for his infatuation to move the human race forward through his master plans of electricity and space travel. And I admire Steve Jobs for bringing us Apple and Pixar.
+I don’t have any heroes. There are people I respect and admire, but in the end, we’re all just human. I admire my dad for his kindness and compassion. I'm inspired by Elon Musk for his infatuation to move the human race forward through his master plans of electricity and space travel. And I admire Steve Jobs for bringing us Apple and Pixar. I'm grateful for meeting <a href="https://steven.codes/" target="_blank">Steven Traversi</a>, the one who inspired me to study computer science at Berkeley.
 
 
 #### Do you want to have kids?
@@ -128,63 +132,6 @@ At some point, yes, but not for a while. 2 or 3 children. I would want to raise 
 
 No, I’m agnostic. I think anyone should be free to believe in whatever they want. I live by certain philosophies, some of which are captured by Neil deGrasse Tyson as follows: "The problem, often not discovered until late in life, is that when you look for things in life like love, meaning, motivation, it implies they are sitting behind a tree or under a rock. The most successful people in life recognize, that in life they create their own love, they manufacture their own meaning, they generate their own motivation. For me, I am driven by two main philosophies, know more today about the world than I knew yesterday. And lessen the suffering of others. You'd be surprised how far that gets you."
 
-
-#### What is the funniest name you have actually heard used in the real world?
-
-#### What sport would be the funniest to add a mandatory amount of alcohol to?
-
-#### What is something that everyone looks stupid doing?
-
-#### What is something that is really popular now, but in 5 years everyone will look back on and be embarrassed by?
-
-#### What would be the hat to end all hats? What could you wear on your head that would make people stop what they are doing and stare in awe and amazement?
-
-#### If animals could talk, which would be the rudest?
-
-Definitely birds. Birds are assholes.
-
-#### In 40 years what will people be nostalgic for?
-
-#### What is the weirdest thing you have seen in someone else’s home?
-
-#### What used to be considered trashy but now is very classy?
-
-#### If you were arrested with no explanation, what would your friends and family assume you had done?
-
-#### What’s the most ridiculous fact you know?
-
-#### What set of items could you buy that would make the cashier the most uncomfortable?
-
-#### What is the funniest joke you know by heart?
-
-#### What is the funniest corporate / business screw up you have heard of?
-
-#### In one sentence, how would you sum up the internet?
-
-#### What are some fun and interesting alternatives to war that countries could settle their differences with?
-
-#### What’s the best Wi-Fi name you’ve seen?
-
-#### If life were a video game, what would some of the cheat codes be?
-
-#### What would be the worst “buy one get one free” sale of all time?
-
-#### What’s the weirdest thing a guest has done at your house?
-
-#### What two totally normal things become really weird if you do them back to back?
-
-#### If peanut butter wasn’t called peanut butter, what would it be called?
-
-#### What would be the creepiest thing you could say while passing a stranger on the street?
-
-#### What’s the most imaginative insult you can come up with?
-
-#### Toilet paper, over or under?
-
-#### If over time you replace parts on a car, at what point does it stop being the same car you bought? How many parts do you need to replace to make it a new car?
-
-#### If someone asked to be your apprentice and learn all that you know, what would you teach them?
-
-#### What’s the best inside joke you’ve been a part of?
-
+#### What’s the most ridiculous thing you've overheard?
+Walking by two students at Berkeley, I heard one explain, "This is the tree where I saw the squirrel war."
 

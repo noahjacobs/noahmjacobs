@@ -35,14 +35,14 @@ function SimpleMediaCard(props) {
                 Software Engineering Intern
               </Typography>
               <Typography component="p">
-                Working on iOS Systems for Radar in Summer 2018.
+                Working on Radar for iOS Systems in Summer 2018.
               </Typography>
             </CardContent>
             <CardActions>
-              <Button dense color="primary">
+              <Button dense color="primary" href="https://bugreport.apple.com/web/" target="_blank">
                 Website
               </Button>
-              <Button dense color="primary">
+              <Button dense color="primary" href="https://developer.apple.com/bug-reporting/" target="_blank">
                 Learn More
               </Button>
             </CardActions>
@@ -67,10 +67,10 @@ function SimpleMediaCard(props) {
               </Typography>
             </CardContent>
             <CardActions>
-              <Button dense color="primary">
+              <Button dense color="primary" href="https://inst.eecs.berkeley.edu/~cs61a/fa17/" target="_blank">
                 Website
               </Button>
-              <Button dense color="primary">
+              <Button dense color="primary" href="https://inst.eecs.berkeley.edu/~cs61a/fa17/articles/about.html" target="_blank">
                 Learn More
               </Button>
             </CardActions>
@@ -95,10 +95,10 @@ function SimpleMediaCard(props) {
               </Typography>
             </CardContent>
             <CardActions>
-              <Button dense color="primary">
+              <Button dense color="primary" href="https://venturedojo.com/" target="_blank">
                 Website
               </Button>
-              <Button dense color="primary">
+              <Button dense color="primary" href="https://venturedojo.com/about-us/" target="_blank">
                 Learn More
               </Button>
             </CardActions>

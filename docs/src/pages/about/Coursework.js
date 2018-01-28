@@ -47,7 +47,7 @@ class ControlledExpansionPanels extends Component {
           </ExpansionPanelSummary>
           <ExpansionPanelDetails>
             <Typography>
-              Description
+              Introduction to programming and computer science. This course exposes students to techniques of abstraction at several levels: (a) within a programming language, using higher-order functions, manifest types, data-directed programming, and message-passing; (b) between programming languages, using functional and rule-based languages as examples. It also relates these techniques to the practical problems of implementation of languages and algorithms on a von Neumann machine. There are several significant programming projects.
             </Typography>
           </ExpansionPanelDetails>
         </ExpansionPanel>
@@ -58,7 +58,7 @@ class ControlledExpansionPanels extends Component {
           </ExpansionPanelSummary>
           <ExpansionPanelDetails>
             <Typography>
-              Description
+              Fundamental dynamic data structures, including linear lists, queues, trees, and other linked structures; arrays strings, and hash tables. Storage management. Elementary principles of software engineering. Abstract data types. Algorithms for sorting and searching. Introduction to the Java programming language.
             </Typography>
           </ExpansionPanelDetails>
         </ExpansionPanel>
@@ -69,7 +69,7 @@ class ControlledExpansionPanels extends Component {
           </ExpansionPanelSummary>
           <ExpansionPanelDetails>
             <Typography>
-              Description
+              The internal organization and operation of digital computers. Machine architecture, support for high-level languages (logic, arithmetic, instruction sequencing) and operating systems (I/O, interrupts, memory management, process switching). Elements of computer logic design. Tradeoffs involved in fundamental architectural design decisions.
             </Typography>
           </ExpansionPanelDetails>
         </ExpansionPanel>
@@ -80,7 +80,7 @@ class ControlledExpansionPanels extends Component {
           </ExpansionPanelSummary>
           <ExpansionPanelDetails>
             <Typography>
-              Description
+              Logic, infinity, and induction; applications include undecidability and stable marriage problem. Modular arithmetic and GCDs; applications include primality testing and cryptography. Polynomials; examples include error correcting codes and interpolation. Probability including sample spaces, independence, random variables, law of large numbers; examples include load balancing, existence arguments, Bayesian inference.
             </Typography>
           </ExpansionPanelDetails>
         </ExpansionPanel>
@@ -91,7 +91,7 @@ class ControlledExpansionPanels extends Component {
           </ExpansionPanelSummary>
           <ExpansionPanelDetails>
             <Typography>
-              Description
+              The design, implementation, and evaluation of user interfaces. User-centered design and task analysis. Conceptual models and interface metaphors. Usability inspection and evaluation methods. Analysis of user study data. Input methods (keyboard, pointing, touch, tangible) and input models. Visual design principles. Interface prototyping and implementation methodologies and tools. Students will develop a user interface for a specific task and target user group in teams.
             </Typography>
           </ExpansionPanelDetails>
         </ExpansionPanel>
@@ -102,7 +102,7 @@ class ControlledExpansionPanels extends Component {
           </ExpansionPanelSummary>
           <ExpansionPanelDetails>
             <Typography>
-              Description
+              Introduction to computer security. Cryptography, including encryption, authentication, hash functions, cryptographic protocols, and applications. Operating system security, access control. Network security, firewalls, viruses, and worms. Software security, defensive programming, and language-based security. Case studies from real-world systems.
             </Typography>
           </ExpansionPanelDetails>
         </ExpansionPanel>
@@ -113,7 +113,7 @@ class ControlledExpansionPanels extends Component {
           </ExpansionPanelSummary>
           <ExpansionPanelDetails>
             <Typography>
-              Description
+              Basic concepts of operating systems and system programming. Utility programs, subsystems, multiple-program systems. Processes, interprocess communication, and synchronization. Memory allocation, segmentation, paging. Loading and linking, libraries. Resource allocation, scheduling, performance evaluation. File systems, storage devices, I/O systems. Protection, security, and privacy.
             </Typography>
           </ExpansionPanelDetails>
         </ExpansionPanel>
@@ -124,7 +124,7 @@ class ControlledExpansionPanels extends Component {
           </ExpansionPanelSummary>
           <ExpansionPanelDetails>
             <Typography>
-              Description
+              Concept and basic techniques in the design and analysis of algorithms; models of computation; lower bounds; algorithms for optimum search trees, balanced trees and UNION-FIND algorithms; numerical and algebraic algorithms; combinatorial algorithms. Turing machines, how to count steps, deterministic and nondeterministic Turing machines, NP-completeness. Unsolvable and intractable problems.
             </Typography>
           </ExpansionPanelDetails>
         </ExpansionPanel>
@@ -135,7 +135,7 @@ class ControlledExpansionPanels extends Component {
           </ExpansionPanelSummary>
           <ExpansionPanelDetails>
             <Typography>
-              Description
+              Techniques of modeling objects for the purpose of computer rendering: boundary representations, constructive solids geometry, hierarchical scene descriptions. Mathematical techniques for curve and surface representation. Basic elements of a computer graphics rendering pipeline; architecture of modern graphics display devices. Geometrical transformations such as rotation, scaling, translation, and their matrix representations. Homogeneous coordinates, projective and perspective transformations. Algorithms for clipping, hidden surface removal, rasterization, and anti-aliasing. Scan-line based and ray-based rendering algorithms. Lighting models for reflection, refraction, transparency.
             </Typography>
           </ExpansionPanelDetails>
         </ExpansionPanel>
@@ -146,7 +146,7 @@ class ControlledExpansionPanels extends Component {
           </ExpansionPanelSummary>
           <ExpansionPanelDetails>
             <Typography>
-              Description
+              Ideas and techniques underlying the design of intelligent computer systems. Topics include search, game playing, knowledge representation, inference, planning, reasoning under uncertainty, machine learning, robotics, perception, and language understanding.
             </Typography>
           </ExpansionPanelDetails>
         </ExpansionPanel>
@@ -157,7 +157,7 @@ class ControlledExpansionPanels extends Component {
           </ExpansionPanelSummary>
           <ExpansionPanelDetails>
             <Typography>
-              Description
+              Theoretical foundations, algorithms, methodologies, and applications for machine learning. Topics may include supervised methods for regression and classication (linear models, trees, neural networks, ensemble methods, instance-based methods); generative and discriminative probabilistic models; Bayesian parametric learning; density estimation and clustering; Bayesian networks; time series models; dimensionality reduction; programming projects covering a variety of real-world applications.
             </Typography>
           </ExpansionPanelDetails>
         </ExpansionPanel>
@@ -168,7 +168,7 @@ class ControlledExpansionPanels extends Component {
           </ExpansionPanelSummary>
           <ExpansionPanelDetails>
             <Typography>
-              Description
+              This course and its follow-on course EE16B focus on the fundamentals of designing modern information devices and systems that interface with the real world. Together, this course sequence provides a comprehensive foundation for core EECS topics in signal processing, learning, control, and circuit design while introducing key linear-algebraic concepts motivated by application contexts. Modeling is emphasized in a way that deepens mathematical maturity, and in both labs and homework, students will engage computationally, physically, and visually with the concepts being introduced in addition to traditional paper/pencil exercises. The courses are aimed at entering students as well as non-majors seeking a broad foundation for the field.
             </Typography>
           </ExpansionPanelDetails>
         </ExpansionPanel>
@@ -179,7 +179,7 @@ class ControlledExpansionPanels extends Component {
           </ExpansionPanelSummary>
           <ExpansionPanelDetails>
             <Typography>
-              Description
+              This course is a follow-on to Electrical Engineering 16A, and focuses on the fundamentals of designing and building modern information devices and systems that interface with the real world. The course sequence provides a comprehensive introduction to core EECS topics in circuit design, signals, and systems in an application-driven context. The courses are delivered assuming mathematical maturity and aptitude at roughly the level of having completed Math 1A-1B, and are aimed at entering students as well as non-majors seeking a broad introduction to the field.
             </Typography>
           </ExpansionPanelDetails>
         </ExpansionPanel>
@@ -190,7 +190,7 @@ class ControlledExpansionPanels extends Component {
           </ExpansionPanelSummary>
           <ExpansionPanelDetails>
             <Typography>
-              Description
+              An introduction to game theory. Basic principle, and models of interaction among players, with a strong emphasis on applications to political science, economics, and other social sciences.
             </Typography>
           </ExpansionPanelDetails>
         </ExpansionPanel>
@@ -201,7 +201,7 @@ class ControlledExpansionPanels extends Component {
           </ExpansionPanelSummary>
           <ExpansionPanelDetails>
             <Typography>
-              Description
+              Class format consists of lectures, experiential exercises, student presentations, and case discussions. This course will cover the concepts and techniques required for successful implementation of business strategies with a particular focus on the role of effective leadership in leading strategic change.
             </Typography>
           </ExpansionPanelDetails>
         </ExpansionPanel>
@@ -212,7 +212,7 @@ class ControlledExpansionPanels extends Component {
           </ExpansionPanelSummary>
           <ExpansionPanelDetails>
             <Typography>
-              Description
+              This course introduces the interdisciplinary field of cognitive science. Lectures and readings will survey research from artificial intelligence, pyschology, linguistics, philosophy, and neuroscience, and will cover topics such as the nature of knowledge, thinking, remembering, vision, imagery, language, and consciousness. Sections will demonstrate some of the major methodologies.
             </Typography>
           </ExpansionPanelDetails>
         </ExpansionPanel>
@@ -223,7 +223,7 @@ class ControlledExpansionPanels extends Component {
           </ExpansionPanelSummary>
           <ExpansionPanelDetails>
             <Typography>
-              Description
+              Introduction to human brain mechanisms of sensation, movement, perception, thinking, learning, memory, and emotion in terms of anatomy, physiology, and chemistry of the nervous system in health and disease. Intended for students in the humanities and social sciences and others not majoring in the biological sciences.
             </Typography>
           </ExpansionPanelDetails>
         </ExpansionPanel>
@@ -234,7 +234,7 @@ class ControlledExpansionPanels extends Component {
           </ExpansionPanelSummary>
           <ExpansionPanelDetails>
             <Typography>
-              Description
+              Theoretical foundations and current controversies in cognitive science will be discussed. Basic issues in cognition--including perception, imagery, memory, categorization, thinking, judgment, and development--will be considered from the perspectives of philosophy, psychology, computer science, and physiology. Particular emphasis will be placed on the nature, implications, and limitations of the computational model of mind.
             </Typography>
           </ExpansionPanelDetails>
         </ExpansionPanel>
@@ -245,7 +245,7 @@ class ControlledExpansionPanels extends Component {
           </ExpansionPanelSummary>
           <ExpansionPanelDetails>
             <Typography>
-              Description
+              An intensive introduction of linguistic analysis, including core areas such as phonetics and phonology, morphology, and syntax and semantics, with data from a range of languages. Argumentation and writing skills are developed through substantial weekly homework assignments.
             </Typography>
           </ExpansionPanelDetails>
         </ExpansionPanel>
@@ -256,7 +256,7 @@ class ControlledExpansionPanels extends Component {
           </ExpansionPanelSummary>
           <ExpansionPanelDetails>
             <Typography>
-              Description
+              Survey of social psychology including interaction processes, small groups, attitudes and attitude change, and social problems.
             </Typography>
           </ExpansionPanelDetails>
         </ExpansionPanel>
@@ -267,7 +267,7 @@ class ControlledExpansionPanels extends Component {
           </ExpansionPanelSummary>
           <ExpansionPanelDetails>
             <Typography>
-              Description
+              Mind and matter; other minds; the concept "person."
             </Typography>
           </ExpansionPanelDetails>
         </ExpansionPanel>
@@ -278,7 +278,7 @@ class ControlledExpansionPanels extends Component {
           </ExpansionPanelSummary>
           <ExpansionPanelDetails>
             <Typography>
-              Description
+              The goal of this class is to interrogate and make explicit the powerful musical intuitions that are at work as you make sense of the music all around you. What is the nature of the knowledge that is guiding these intuitions? How does this knowledge develop in ordinary and extraordinary ways? To approach these questions, small composition-like projects aided by a specially designed computer music environment will function as a workplace. You will explore, experiment, question, and reflect on how and what you know how to do as you generate the musical coherence that you seem simply to find.
             </Typography>
           </ExpansionPanelDetails>
         </ExpansionPanel>
@@ -289,7 +289,7 @@ class ControlledExpansionPanels extends Component {
           </ExpansionPanelSummary>
           <ExpansionPanelDetails>
             <Typography>
-              Description
+              This course explores the history of information and associated technologies, uncovering why we think of ours as "the information age." We will select moments in the evolution of production, recording, and storage from the earliest writing systems to the world of Short Message Service (SMS) and blogs. In every instance, we'll be concerned with both what and when and how and why, and we will keep returning to the question of technological determinism: how do technological developments affect society and vice versa?
             </Typography>
           </ExpansionPanelDetails>
         </ExpansionPanel>
@@ -300,7 +300,7 @@ class ControlledExpansionPanels extends Component {
           </ExpansionPanelSummary>
           <ExpansionPanelDetails>
             <Typography>
-              Description
+              A description of modern astronomy with emphasis on the structure and evolution of stars, galaxies, and the Universe. Additional topics optionally discussed include quasars, pulsars, black holes, and extraterrestrial communication, etc. Individual instructor's synopses available from the department.
             </Typography>
           </ExpansionPanelDetails>
         </ExpansionPanel>
