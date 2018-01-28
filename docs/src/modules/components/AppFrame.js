@@ -236,7 +236,7 @@ class AppFrame extends React.Component {
               component="a"
               title="GitHub"
               color="contrast"
-              href="https://github.com/noahjacobs/noahmjacobs"
+              href="https://github.com/noahjacobs/website"
               target="_blank"
             >
               <Github />
