@@ -84,7 +84,7 @@ class Carbon extends React.Component {
 
   render() {
     const { classes } = this.props;
-    return <div className={classes.ad} id="ad" />;
+    return null;
   }
 }
 

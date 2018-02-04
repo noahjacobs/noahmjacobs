@@ -69,7 +69,7 @@ function PageHome(props) {
           params={{
               particles: {
                   number: {
-                      value: 150
+                      value: 50
                   },
                   move: {
                     enable: true,
